@@ -1,0 +1,14 @@
+{
+  "name": "@apple/mymodule",
+  "publishConfig": {
+	"registry": "https://npm.apple.com"
+  },
+  "version": "6.1.0",
+  "description": "for activity purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "welcome to npm"
+  },
+  "author": "Ivy",
+  "license": "ISC"
+}
